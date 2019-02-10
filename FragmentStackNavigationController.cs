@@ -25,7 +25,7 @@ using Android.Support.V4.App;
 using Android.Views;
 using Android.Widget;
 
-namespace AndroidApp.Controls
+namespace Controls
 {
     public class FragmentStackNavigationController : Fragment
     {
