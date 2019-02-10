@@ -4,7 +4,7 @@ A navigation controller for transitioning between fragments via push and pop ope
 
 ![Image](demo.gif)
 
-**An example project used to create this flow is included**
+**The example project used to create this flow is included.**
 
 ## Usage
 
